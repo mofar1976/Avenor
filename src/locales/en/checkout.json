@@ -1,0 +1,63 @@
+{
+  "title": "Checkout",
+  "eyebrow": "Stripe · Test mode",
+  "metaDescription": "Sign in to try Stripe Checkout for your AVENOR selection.",
+  "intro": "Review your selection, then continue to the hosted Stripe test payment.",
+  "payment": {
+    "title": "Pay with Stripe · Test mode",
+    "description": "Enter contact, delivery and payment details directly on Stripe. AVENOR sends only your product selection. Delivery countries: Germany and Austria."
+  },
+  "demoNotice": "Test payments only: use Stripe test cards and fictional contact details. Stripe processes your input. No goods are shipped.",
+  "submit": "Continue to Stripe · Test payment",
+  "submitting": "Preparing Stripe Checkout …",
+  "editCart": "Edit shopping bag",
+  "continueShopping": "Continue shopping",
+  "cart": "View shopping bag",
+  "loading": "Checking prices and availability …",
+  "loadError": "Checkout cannot be loaded right now. Your selection is kept.",
+  "retry": "Try again",
+  "empty": {
+    "title": "Your bag is empty.",
+    "description": "Choose a product before trying the checkout.",
+    "cta": "Explore the collection"
+  },
+  "summary": {
+    "title": "Your selection",
+    "line": "{{quantity}} × {{price}}",
+    "subtotal": "Subtotal",
+    "shipping": "Demo shipping",
+    "free": "Free",
+    "total": "Total"
+  },
+  "review": {
+    "blocked": "Some items are unavailable or not available in the selected quantity. Please update your shopping bag.",
+    "changed": "A price or available quantity has changed. Your summary has been updated. Please review it and complete the demo again.",
+    "network": "The final check failed. Your selection and form entries are kept. Please try again."
+  },
+  "stripe": {
+    "notConfigured": "Stripe is not configured. Add the test key to your local .env file and start the payment API.",
+    "storage": "Session storage is unavailable. Enable it so your payment can be verified when you return.",
+    "changed": "A price or stock level changed. Refresh your selection and review it again.",
+    "network": "Unable to prepare payment. Check that the local payment API is running and try again. Your bag is kept.",
+    "limit": "Test payments are limited to a subtotal of EUR 10,000. Please reduce your selection."
+  },
+  "stripeReturn": {
+    "description": "Server-verified status of your Stripe test payment.",
+    "paidTitle": "Test payment confirmed.",
+    "paid": "Stripe confirms your successful test payment. Paid quantities have been removed from your bag. Nothing will be shipped.",
+    "checkingTitle": "Checking your payment.",
+    "checking": "The server is checking the payment status with Stripe.",
+    "pendingTitle": "Payment not confirmed yet.",
+    "pending": "Stripe has not confirmed a completed payment. Your bag is kept. You can check the status again.",
+    "canceledTitle": "Payment not completed.",
+    "canceled": "You returned without a confirmed payment. Your bag is kept.",
+    "expiredTitle": "Payment session expired.",
+    "expired": "Start a new test payment from your bag. Your selection is kept.",
+    "missingTitle": "No matching payment found.",
+    "missing": "The local receipt key is missing or the link is invalid. Open the return page in the browser tab where you started payment.",
+    "errorTitle": "Payment status unavailable.",
+    "error": "Unable to confirm the status. Your bag is kept. Check again before starting another payment.",
+    "reference": "Stripe test reference",
+    "storageWarning": "The bag update could not be saved. After reloading, you may need to remove paid items yourself."
+  }
+}

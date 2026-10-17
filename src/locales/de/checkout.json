@@ -1,0 +1,63 @@
+{
+  "title": "Checkout",
+  "eyebrow": "Stripe · Testmodus",
+  "metaDescription": "Anmeldungspflichtiger Stripe-Testcheckout für deine AVENOR-Auswahl.",
+  "intro": "Prüfe deine Auswahl und gehe anschließend zur gehosteten Stripe-Testzahlung.",
+  "payment": {
+    "title": "Zahlung mit Stripe · Testmodus",
+    "description": "Kontakt-, Liefer- und Zahlungsdaten gibst du direkt bei Stripe ein. AVENOR überträgt nur deine Artikelauswahl. Lieferländer: Deutschland und Österreich."
+  },
+  "demoNotice": "Ausschließlich Testzahlungen: Verwende Stripe-Testkartendaten und fiktive Kontaktdaten. Deine Eingaben werden von Stripe verarbeitet. Es erfolgt kein echter Versand.",
+  "submit": "Weiter zu Stripe · Testzahlung",
+  "submitting": "Stripe-Checkout wird vorbereitet …",
+  "editCart": "Warenkorb bearbeiten",
+  "continueShopping": "Weiter einkaufen",
+  "cart": "Zum Warenkorb",
+  "loading": "Preise und Verfügbarkeit werden geprüft …",
+  "loadError": "Der Checkout kann gerade nicht geladen werden. Deine Auswahl bleibt erhalten.",
+  "retry": "Erneut versuchen",
+  "empty": {
+    "title": "Dein Warenkorb ist leer.",
+    "description": "Wähle zuerst ein Produkt aus, bevor du den Checkout ausprobierst.",
+    "cta": "Kollektion entdecken"
+  },
+  "summary": {
+    "title": "Deine Auswahl",
+    "line": "{{quantity}} × {{price}}",
+    "subtotal": "Zwischensumme",
+    "shipping": "Demo-Versandkosten",
+    "free": "Kostenlos",
+    "total": "Gesamtsumme"
+  },
+  "review": {
+    "blocked": "Einige Artikel sind nicht oder nicht in der gewählten Menge verfügbar. Bitte passe deinen Warenkorb an.",
+    "changed": "Preis oder verfügbare Menge haben sich geändert. Die Übersicht wurde aktualisiert. Bitte prüfe sie und schließe die Demo anschließend erneut ab.",
+    "network": "Die abschließende Prüfung ist fehlgeschlagen. Deine Auswahl und Eingaben bleiben erhalten. Bitte versuche es erneut."
+  },
+  "stripe": {
+    "notConfigured": "Stripe ist noch nicht eingerichtet. Trage den Testschlüssel in der lokalen .env-Datei ein und starte die Zahlungs-API.",
+    "storage": "Der Sitzungsspeicher ist nicht verfügbar. Bitte erlaube ihn, damit deine Zahlungsbestätigung nach der Rückkehr zugeordnet werden kann.",
+    "changed": "Preis oder Bestand haben sich geändert. Aktualisiere die Auswahl und prüfe sie erneut.",
+    "network": "Die Zahlung konnte nicht vorbereitet werden. Prüfe, ob die lokale Zahlungs-API läuft, und versuche es erneut. Dein Warenkorb bleibt erhalten.",
+    "limit": "Die Testzahlung ist auf 10.000 Euro Warenwert begrenzt. Bitte reduziere deine Auswahl."
+  },
+  "stripeReturn": {
+    "description": "Serverseitig geprüfter Status deiner Stripe-Testzahlung.",
+    "paidTitle": "Testzahlung bestätigt.",
+    "paid": "Stripe bestätigt die erfolgreiche Testzahlung. Bezahlte Mengen wurden aus deinem Warenkorb entfernt. Es wird nichts versendet.",
+    "checkingTitle": "Zahlung wird geprüft.",
+    "checking": "Der Zahlungsstatus wird direkt bei Stripe abgefragt.",
+    "pendingTitle": "Noch keine Zahlung bestätigt.",
+    "pending": "Stripe meldet noch keine abgeschlossene Zahlung. Dein Warenkorb bleibt erhalten. Du kannst den Status erneut prüfen.",
+    "canceledTitle": "Zahlung nicht abgeschlossen.",
+    "canceled": "Du bist ohne bestätigte Zahlung zurückgekehrt. Dein Warenkorb bleibt erhalten.",
+    "expiredTitle": "Zahlungssitzung abgelaufen.",
+    "expired": "Starte vom Warenkorb eine neue Testzahlung. Deine Auswahl bleibt erhalten.",
+    "missingTitle": "Keine zugehörige Zahlung gefunden.",
+    "missing": "Der lokale Belegschlüssel fehlt oder der Link ist ungültig. Öffne die Rückkehrseite in dem Browser-Tab, in dem du die Zahlung gestartet hast.",
+    "errorTitle": "Zahlungsstatus nicht verfügbar.",
+    "error": "Der Status konnte nicht bestätigt werden. Dein Warenkorb bleibt erhalten. Prüfe den Status erneut, bevor du eine weitere Zahlung startest.",
+    "reference": "Stripe-Testreferenz",
+    "storageWarning": "Die Warenkorbänderung konnte nicht gespeichert werden. Nach einem Reload musst du die bezahlten Artikel gegebenenfalls selbst entfernen."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "label": "Hauptnavigation",
+    "home": "Startseite",
+    "collection": "Kollektion",
+    "menu": "Menü öffnen",
+    "menuTitle": "Entdecke AVENOR",
+    "menuDescription": "Zeitlose Essentials für deinen Alltag.",
+    "close": "Schließen",
+    "cart": "Warenkorb",
+    "wishlist": "Merkliste"
+  },
+  "brandHome": "AVENOR – Startseite",
+  "skip": "Zum Inhalt springen",
+  "language": "Sprache wählen",
+  "demo": "Fashion & Lifestyle · Demo-Shop",
+  "backHome": "Zur Startseite",
+  "meta": {
+    "home": "AVENOR — Fashion & Lifestyle",
+    "catalog": "Kollektion — AVENOR",
+    "notFound": "Seite nicht gefunden — AVENOR",
+    "description": "AVENOR – ausgewählte Fashion und Lifestyle. Zeitlose Formen, bewusste Details."
+  },
+  "notFound": {
+    "eyebrow": "404 · Seite nicht gefunden",
+    "title": "Ein kleiner",
+    "accent": "Umweg.",
+    "description": "Diese Seite gibt es hier nicht. Entdecke AVENOR von der Startseite aus."
+  },
+  "error": {
+    "eyebrow": "Etwas ist schiefgelaufen",
+    "title": "Kurz",
+    "accent": "innehalten.",
+    "description": "Die Seite konnte nicht angezeigt werden. Versuche es bitte erneut."
+  }
+}

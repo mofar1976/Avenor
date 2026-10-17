@@ -1,0 +1,41 @@
+{
+  "metaTitle": "Produktdetails",
+  "metaDescription": "Entdecke die ausgewählten Fashion- und Lifestyle-Produkte von AVENOR.",
+  "backToCollection": "Zurück zur Kollektion",
+  "breadcrumb": "Seitennavigation",
+  "loading": "Das Produkt wird geladen …",
+  "errorTitle": "Das Produkt ist gerade nicht erreichbar.",
+  "errorDescription": "Bitte prüfe deine Verbindung und versuche es erneut.",
+  "notFound": {
+    "title": "Produkt nicht gefunden.",
+    "description": "Dieses Produkt ist nicht mehr Teil unserer Auswahl. Entdecke weitere Produkte in der Kollektion."
+  },
+  "category": "Kategorie",
+  "brand": "Marke",
+  "reference": "Artikelnummer",
+  "inStock": "Verfügbar",
+  "soldOut": "Zurzeit ausverkauft",
+  "rating": "{{value}} von 5",
+  "subtotal": "Summe der Auswahl",
+  "related": "Auch für dich ausgewählt.",
+  "moreInCategory": "Mehr aus dieser Kategorie",
+  "quantity": {
+    "label": "Menge",
+    "decrease": "Menge verringern",
+    "increase": "Menge erhöhen",
+    "maximum": "Maximal {{formatted}} verfügbar"
+  },
+  "gallery": {
+    "label": "Produktgalerie",
+    "keyboard": "Mit den Pfeiltasten links und rechts kannst du zwischen den Bildern wechseln.",
+    "position": "Bild {{current}} von {{total}}",
+    "previous": "Vorheriges Bild",
+    "next": "Nächstes Bild",
+    "zoom": "Bild vergrößern",
+    "zoomDescription": "Produktansicht im Detail.",
+    "close": "Vergrößerte Ansicht schließen",
+    "thumbnails": "Produktansicht auswählen",
+    "select": "Bild {{number}} anzeigen",
+    "unavailable": "Für dieses Produkt ist gerade kein Bild verfügbar."
+  }
+}

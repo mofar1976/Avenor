@@ -1,0 +1,41 @@
+{
+  "metaTitle": "Product details",
+  "metaDescription": "Discover curated fashion and lifestyle products at AVENOR.",
+  "backToCollection": "Back to the collection",
+  "breadcrumb": "Breadcrumb",
+  "loading": "Loading the product …",
+  "errorTitle": "The product is currently unavailable.",
+  "errorDescription": "Please check your connection and try again.",
+  "notFound": {
+    "title": "Product not found.",
+    "description": "This product is no longer part of our selection. Discover more pieces in the collection."
+  },
+  "category": "Category",
+  "brand": "Brand",
+  "reference": "Product reference",
+  "inStock": "In stock",
+  "soldOut": "Currently sold out",
+  "rating": "{{value}} out of 5",
+  "subtotal": "Selection total",
+  "related": "Also selected for you.",
+  "moreInCategory": "More from this category",
+  "quantity": {
+    "label": "Quantity",
+    "decrease": "Decrease quantity",
+    "increase": "Increase quantity",
+    "maximum": "Maximum {{formatted}} available"
+  },
+  "gallery": {
+    "label": "Product gallery",
+    "keyboard": "Use the left and right arrow keys to move between images.",
+    "position": "Image {{current}} of {{total}}",
+    "previous": "Previous image",
+    "next": "Next image",
+    "zoom": "Enlarge image",
+    "zoomDescription": "A closer look at the product.",
+    "close": "Close enlarged view",
+    "thumbnails": "Select product view",
+    "select": "Show image {{number}}",
+    "unavailable": "An image is currently unavailable for this product."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "eyebrow": "The AVENOR Edit · No. 01",
+  "title": "Weniger, aber",
+  "accent": "bewusster.",
+  "description": "Zeitlose Formen. Ausgewählte Details. Eine neue Perspektive auf Fashion und Lifestyle.",
+  "cta": "Kollektion entdecken",
+  "hero": {
+    "secondary": "Neu ausgewählt",
+    "note": "Stücke für deinen Alltag. Ausgewählt für deinen eigenen Stil.",
+    "caption": "Editorial · Everyday, considered.",
+    "imageAlt": "Editorial: Frau im taupefarbenen Mantel und dunklen Kleid in einem sonnigen Innenhof."
+  },
+  "perspective": {
+    "shapes": "Zeitlose Formen.",
+    "details": "Bewusste Details.",
+    "style": "Deine eigene Perspektive."
+  },
+  "categories": {
+    "eyebrow": "Finde deine Favoriten",
+    "title": "Ein guter Anfang.",
+    "description": "Von klaren Silhouetten bis zu den Details, die einen Look vervollständigen.",
+    "explore": "Entdecken"
+  },
+  "arrivals": {
+    "eyebrow": "Frisch im Fokus",
+    "title": "Neu ausgewählt.",
+    "cta": "Alle Neuheiten ansehen",
+    "loading": "Unsere neue Auswahl wird geladen …",
+    "error": "Unsere neue Auswahl ist gerade nicht erreichbar. Die Kollektion kannst du weiterhin über den Link öffnen.",
+    "retry": "Erneut laden",
+    "empty": "Diese Auswahl ist gerade nicht verfügbar. Entdecke unsere weiteren Kollektionen."
+  },
+  "editorial": {
+    "eyebrow": "Everyday Essentials · The edit",
+    "title": "Für jeden Tag.",
+    "accent": "Auf deine Art.",
+    "description": "Ein vertrautes Lieblingsstück, eine klare Form, ein bewusst gewähltes Detail. Entdecke unsere Auswahl für die Momente dazwischen.",
+    "cta": "Everyday Essentials entdecken",
+    "imageAlt": "Editorial-Stillleben: braune Tasche, cremefarbenes Hemd und Sonnenbrille auf einer hellen Steinbank."
+  },
+  "closing": "Stil, der bleibt. Über die Saison hinaus.",
+  "imageUnavailable": "Bild derzeit nicht verfügbar."
+}

@@ -1,0 +1,43 @@
+{
+  "eyebrow": "The AVENOR Edit · No. 01",
+  "title": "Less, but",
+  "accent": "considered.",
+  "description": "Timeless shapes. Thoughtful details. A new perspective on fashion and lifestyle.",
+  "cta": "Explore the collection",
+  "hero": {
+    "secondary": "Discover new arrivals",
+    "note": "Pieces for your everyday. Selected for your own sense of style.",
+    "caption": "Editorial · Everyday, considered.",
+    "imageAlt": "Editorial: a woman in a taupe coat and dark dress in a sunlit courtyard."
+  },
+  "perspective": {
+    "shapes": "Timeless shapes.",
+    "details": "Considered details.",
+    "style": "Your own perspective."
+  },
+  "categories": {
+    "eyebrow": "Find your favourites",
+    "title": "A good place to start.",
+    "description": "From clean silhouettes to the details that bring a look together.",
+    "explore": "Explore"
+  },
+  "arrivals": {
+    "eyebrow": "Fresh perspectives",
+    "title": "New arrivals.",
+    "cta": "View all new arrivals",
+    "loading": "Loading our latest selection …",
+    "error": "Our latest selection is currently unavailable. You can still open the collection using the link.",
+    "retry": "Try again",
+    "empty": "This selection is currently unavailable. Explore our other collections."
+  },
+  "editorial": {
+    "eyebrow": "Everyday Essentials · The edit",
+    "title": "For every day.",
+    "accent": "Your own way.",
+    "description": "A familiar favourite, a clean shape, a considered detail. Discover our selection for all the moments in between.",
+    "cta": "Explore Everyday Essentials",
+    "imageAlt": "Editorial still life: a brown bag, cream shirt and sunglasses on a pale stone bench."
+  },
+  "closing": "Style that stays. Beyond the season.",
+  "imageUnavailable": "Image currently unavailable."
+}

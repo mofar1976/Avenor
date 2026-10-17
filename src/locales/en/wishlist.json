@@ -1,0 +1,28 @@
+{
+  "title": "Wishlist",
+  "eyebrow": "Selected for later",
+  "metaDescription": "Your saved fashion and lifestyle pieces at AVENOR.",
+  "header_one": "Wishlist: {{formatted}} product",
+  "header_other": "Wishlist: {{formatted}} products",
+  "toggle": "Wishlist for {{name}}",
+  "add": "Save {{name}}",
+  "remove": "Remove {{name}} from wishlist",
+  "save": "Save to wishlist",
+  "saved": "Saved to wishlist",
+  "clear": "Clear wishlist",
+  "count_one": "{{formatted}} saved product",
+  "count_other": "{{formatted}} saved products",
+  "loading": "Loading your saved products …",
+  "errorTitle": "Your wishlist is currently unavailable.",
+  "errorDescription": "Your selection is kept. Please check your connection and try again.",
+  "retry": "Try again",
+  "storageWarning": "Your wishlist cannot be saved in this browser right now. Changes may be lost when you reload.",
+  "unavailableTitle": "Currently unavailable.",
+  "unavailableDescription": "These products are currently unavailable in the catalogue. They stay saved until you remove them.",
+  "missingProduct": "Item AV-{{id}}",
+  "empty": {
+    "title": "For everything you love.",
+    "description": "Save your favourite pieces with the heart and find them here again.",
+    "cta": "Explore the collection"
+  }
+}

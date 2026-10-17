@@ -1,0 +1,69 @@
+{
+  "eyebrow": "Die Kollektion",
+  "title": "Ausgewählt.",
+  "accent": "Für deinen Alltag.",
+  "description": "Eine Auswahl aus Fashion und Lifestyle. Zeitlose Formen und besondere Details für deinen Alltag.",
+  "loading": "Die Kollektion wird geladen …",
+  "errorTitle": "Die Kollektion ist gerade nicht erreichbar.",
+  "errorDescription": "Bitte prüfe deine Verbindung und versuche es erneut.",
+  "retry": "Erneut versuchen",
+  "empty": "Momentan sind keine Produkte in unserer Kollektion verfügbar.",
+  "count_one": "{{formatted}} ausgewähltes Produkt",
+  "count_other": "{{formatted}} ausgewählte Produkte",
+  "soldOut": "Zurzeit ausverkauft",
+  "priceNote": "Demo-Shop: Die Beispielpreise werden in EUR dargestellt. Es findet keine Wechselkursumrechnung statt.",
+  "categories": {
+    "shirts": "Hemden",
+    "dresses": "Kleider",
+    "bags": "Taschen",
+    "shoes": "Schuhe",
+    "watches": "Uhren",
+    "sunglasses": "Sonnenbrillen",
+    "jewellery": "Schmuck",
+    "all": "Alle Kategorien"
+  },
+  "search": {
+    "label": "Kollektion durchsuchen",
+    "placeholder": "Produkte oder Marken suchen",
+    "submit": "Suchen"
+  },
+  "filters": {
+    "title": "Filter",
+    "description": "Wähle eine Kategorie. Änderungen werden direkt übernommen.",
+    "close": "Filter schließen",
+    "category": "Kategorie",
+    "clearCategory": "Kategorie zurücksetzen",
+    "showResults_one": "{{formatted}} Produkt ansehen",
+    "showResults_other": "{{formatted}} Produkte ansehen",
+    "reset": "Alles zurücksetzen"
+  },
+  "sorting": {
+    "label": "Sortieren nach",
+    "featured": "Unsere Auswahl",
+    "price-asc": "Preis: aufsteigend",
+    "price-desc": "Preis: absteigend",
+    "name-asc": "Name: A–Z"
+  },
+  "active": {
+    "label": "Aktive Auswahl",
+    "search": "Suche: {{value}}",
+    "remove": "Entfernen: {{value}}"
+  },
+  "results": {
+    "range": "{{start}}–{{end}} von {{total}} Produkten",
+    "zero": "Keine Produkte gefunden",
+    "emptyTitle": "Noch nicht das Richtige?",
+    "emptyDescription": "Versuche einen anderen Suchbegriff oder ändere deine Kategorie."
+  },
+  "pagination": {
+    "label": "Kollektionsseiten",
+    "previous": "Vorherige Seite",
+    "next": "Nächste Seite",
+    "goTo": "Seite {{page}}"
+  },
+  "viewProduct": "{{name}} ansehen",
+  "collections": {
+    "new-arrivals": "Neu ausgewählt",
+    "everyday-essentials": "Everyday Essentials"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Merkliste",
+  "eyebrow": "Für später ausgewählt",
+  "metaDescription": "Deine gemerkten Fashion- und Lifestyle-Produkte bei AVENOR.",
+  "header_one": "Merkliste: {{formatted}} Produkt",
+  "header_other": "Merkliste: {{formatted}} Produkte",
+  "toggle": "Merkliste für {{name}}",
+  "add": "{{name}} merken",
+  "remove": "{{name}} aus der Merkliste entfernen",
+  "save": "Auf die Merkliste",
+  "saved": "Auf der Merkliste",
+  "clear": "Merkliste leeren",
+  "count_one": "{{formatted}} gemerktes Produkt",
+  "count_other": "{{formatted}} gemerkte Produkte",
+  "loading": "Deine gemerkten Produkte werden geladen …",
+  "errorTitle": "Die Merkliste ist gerade nicht erreichbar.",
+  "errorDescription": "Deine Auswahl bleibt erhalten. Bitte prüfe deine Verbindung und versuche es erneut.",
+  "retry": "Erneut versuchen",
+  "storageWarning": "Deine Merkliste kann in diesem Browser gerade nicht gespeichert werden. Änderungen gehen nach dem Neuladen möglicherweise verloren.",
+  "unavailableTitle": "Gerade nicht verfügbar.",
+  "unavailableDescription": "Diese Produkte sind aktuell nicht im Katalog verfügbar. Sie bleiben gemerkt, bis du sie entfernst.",
+  "missingProduct": "Artikel AV-{{id}}",
+  "empty": {
+    "title": "Für alles, was dir gefällt.",
+    "description": "Merke deine Lieblingsstücke mit dem Herz und finde sie hier wieder.",
+    "cta": "Kollektion entdecken"
+  }
+}
