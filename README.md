@@ -2,6 +2,20 @@
 
 Minimalistischer Fashion- und Lifestyle-Demoshop mit React, TypeScript und Vite. Deutsch und Englisch, kuratierte DummyJSON-Produkte, Warenkorb, Merkliste, Demo-Anmeldung und Stripe Checkout im **Testmodus**.
 
+## Screenshots
+
+### Startseite
+
+![AVENOR-Startseite mit Kampagnenmotiv und Einstieg in die Kollektion](docs/screenshots/home.png)
+
+### Produktübersicht
+
+![AVENOR-Produktübersicht mit Suche, Kategorieauswahl und Produkteraster](docs/screenshots/catalog.png)
+
+### Produktdetails
+
+![AVENOR-Produktdetailseite mit Galerie, Mengenauswahl und Warenkorbaktion](docs/screenshots/product.png)
+
 ## Lokal starten
 
 Node.js 24 und npm verwenden:
